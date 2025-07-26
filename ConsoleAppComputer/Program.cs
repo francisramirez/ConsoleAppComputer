@@ -4,9 +4,10 @@ namespace ConsoleAppComputer
 {
     internal class Program
     {
+      
         static void Main(string[] args)
         {
-
+            
             Laptop laptop = new Laptop("8 hours")
             {
                 Brand = "Apple",

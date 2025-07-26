@@ -2,6 +2,9 @@
 
 namespace ConsoleAppComputer.Class
 {
+    /// <summary>
+    /// Esta clases es para la adm. de las laptops.
+    /// </summary>
     public sealed class Laptop : Computer
     {
         public string BatteryLife { get; set; }
