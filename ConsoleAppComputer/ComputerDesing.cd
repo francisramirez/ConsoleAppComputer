@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleAppComputer.Class.Computer">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAFAgI=</HashCode>
+      <FileName>Class\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppComputer.Class.Desktop">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Class\Desktop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppComputer.Class.Laptop">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAEAI=</HashCode>
+      <FileName>Class\Laptop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppComputer.Class.HelperComputer">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Class\HelperComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
